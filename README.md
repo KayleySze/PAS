@@ -5,9 +5,9 @@ only for molecules that only contain hydrogen and carbon
 only molecule can be used are phenalenyl, pyrene, olympicenyl, pentacene, nonacene, zethene17, kubo, triangulene, fluorenyl
 input needs to be in .xyz format with C or H then the three coordinates separated by only spaces (default name is i.xyz, can be changed in line 28)
 another input file of the list of molecule must be included (default name is list.txt and format is:
-number molecule name
-  example- 5 pentacene)
-for each molecule, all the carbons must be listed, then the hydrogens
+number name
+  example- 5 pentacene
+each different type of molecule should be in its own line)
 analysis is printed into the output.txt file
 contains:
 THRESHOLDS- py-py:3.4, ph-ph: 3.0556, ol-ol: 3.195918, pe-pe: 3.692, no-no: 3.418
