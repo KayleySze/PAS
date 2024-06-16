@@ -1,0 +1,5 @@
+stacks:
+56
+
+percentage of PAH in 2 stack: 0.2
+sigma bonds:
