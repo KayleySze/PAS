@@ -1,6 +1,6 @@
 # PAS
 PAS: PAH aggregation statistics
-created by Kayley Sze
+created by Kayley Sze in C++
 only for molecules that only contain hydrogen and carbon
 only molecule can be used are phenalenyl, pyrene, olympicenyl, pentacene, nonacene, zethene17, kubo, triangulene, fluorenyl
 input needs to be in .xyz format with C or H then the three coordinates separated by only spaces (default name is i.xyz, can be changed in line 28)
