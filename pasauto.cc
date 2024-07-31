@@ -24,7 +24,7 @@
 //a.exe can be ignored
 
 //each of the input file's names may be changed with command line arguments, example call
-//    ./a.exe i.xyz rings.txt list.txt
+//    ./a.exe i.xyz list.txt rings.txt
 
 //*****MAKE SURE TO CHANGE THRESHOLD, RING.TXT, AND LIST.TXT INPUT FILE****
 
